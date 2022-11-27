@@ -1,0 +1,14 @@
+.set-slider{
+    background-image: url("/public/Images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.set-slider .carousel-indicators{
+    top:500px
+}
+.set-slider
+{
+    background: red;
+    margin-top: 160px;
+}

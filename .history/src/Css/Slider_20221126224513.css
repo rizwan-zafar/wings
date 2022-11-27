@@ -1,0 +1,28 @@
+.set-slider{
+    background-image: url("/public/Images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.set-slider .carousel-indicators{
+    top:300px
+}
+.set-slider .carousel-inner
+{
+     margin-top: 160px;
+     color:white
+}
+.set-slider .carousel-inner .carousel-item>div
+{
+     
+    padding: 50px;
+}
+.set-slider .carousel-inner h1
+{
+     
+    font-weight: 400;
+}
+.set-slider .carousel-inner h1 strong
+{
+    color:#f15833
+}

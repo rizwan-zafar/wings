@@ -1,0 +1,24 @@
+.top-bar{
+background-color: #fff;
+padding: 10px;
+} 
+.nav-container navbar
+{
+    background: #f15833;
+    border-radius: 23px;
+    color: white;
+    padding: 11px;
+    font-weight: 500;
+}
+.nav-container .btn
+{
+    background: #f15833;
+    border-radius: 23px;
+    color: white;
+    padding: 11px;
+    font-weight: 500;
+}
+ .nav-container nav ul li a
+{
+    color:  white;
+}
